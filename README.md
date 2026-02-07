@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DR. C. RANJEETH KUMAR
+### STRATEGIC LEADERSHIP PROFILE & INSTITUTIONAL ASSET
 
-## Getting Started
+---
 
-First, run the development server:
+> **"Bridging the chasm between Academic Rigor and Industrial Scale."**
+
+This repository contains the architecture and codebase for the official executive digital profile of Dr. C. Ranjeeth Kumar. Designed with an **Obsidian & Ivory** aesthetic, the platform serves as a high-performance bridge between deep-tech research and enterprise-grade industrial vision.
+
+---
+
+## 🏛 The Design Philosophy: "Authority Through Restraint"
+
+Unlike standard portfolios, this platform is engineered as an **Institutional Asset**. The design system prioritizes typographic gravity and structural clarity over decorative elements.
+
+- **Monochromic Precision:** A sophisticated `Ivory (#F9F9F8)` and `Obsidian (#0A0A0A)` palette.
+- **Typographic Scale:** Utilizing massive serif headings to signal institutional history and bold sans-serifs for technical data.
+- **Performance-First Motion:** Hardware-accelerated transitions using custom cubic-bezier curves (`[0.16, 1, 0.3, 1]`) for a fluid, lag-free experience.
+
+---
+
+## 🛠 Strategic Tech Stack
+
+- **Core Framework:** Next.js 15 (App Router)
+- **Styling Engine:** Tailwind CSS 4.0
+- **Animation Orchestration:** Framer Motion (Optimized for 60FPS)
+- **Typeface Selection:** Playfair Display (Serif) & Inter (Sans)
+- **Icons:** Lucide React (Minimalist Set)
+
+---
+
+## 🛰 Core Architecture
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+├── src/
+│   ├── components/
+│   │   ├── layout/       # Navigation & Structural Wrappers
+│   │   ├── sections/     # Modular Industry/Research Sections
+│   │   ├── animations/   # Custom Motion Primitives
+│   │   └── ui/           # High-fidelity reusable components
+│   ├── app/              # Next.js Route Handlers & Global Styles
+│   └── lib/              # Performance Utilities (cn, tailwind-merge)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏁 Deployment & Orchestration
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This platform is ready for 1-click deployment to high-performance edge networks.
 
-## Learn More
+### 1. Initialize
+```bash
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 2. Development Mode
+```bash
+npm run dev
+# Accessible at localhost:3000
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 3. Production Build
+```bash
+npm run build
+npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ⚖️ Strategic Positioning
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This asset documents 15+ years of leadership in:
+- **Applied AI Research** (NVIDIA DLI Certified)
+- **Institutional Building** (Dean of Innovation & Entrepreneurship)
+- **Industrial Impact** (Rolls-Royce, GE Healthcare, Google Cloud Partner)
+- **Global Mentorship** (Golden Gate University, USA)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+**Institutional Digital Asset — All Impact Recorded.**
